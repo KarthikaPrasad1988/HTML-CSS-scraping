@@ -1,5 +1,5 @@
 # HTML-CSS-Scraping
-NU Bootcamp Module 11
+
 
 **File Contents**
 1. part_1_mars_news.ipynb - this file contains the code used to generate mars.json by scraping the html/css tags on the mars news website and turning the scraped data into a list of python dictionaries
